@@ -14,7 +14,7 @@ export default function Comp3() {
 
 const c3style = {
     margin: '10px',
-    background: 'steelblue',
+    background: 'green',
     color: 'white',
     padding: '1.5rem'
 }

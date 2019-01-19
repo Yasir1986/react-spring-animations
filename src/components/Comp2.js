@@ -34,12 +34,14 @@ const c2Style = {
 }
 
 const btn = {
+    
     background: '#333',
     color: '#fff',
     padding: '1rem 2rem',
     border: 'none',
     textTransform: 'uppercase',
-    margin: '15px 0'
+    margin: '0 auto',
+    display: 'block',
 };
 
 export default Comp2
